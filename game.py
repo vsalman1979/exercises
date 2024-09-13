@@ -19,6 +19,7 @@ def check_guess(guess, a_followers, b_followers):
 
 def higher_lower_game():
     print("Welcome to the Higher or Lower Game ****!")
+    print("Welcome!")
 
     score = 0
     game_should_continue = True
